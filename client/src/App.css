@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form input{
+  width: 300px;
+  height: 60px;
+  margin: 10px;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.form label{
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.form button{
+  margin: 10px;
+}
