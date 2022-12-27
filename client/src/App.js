@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>CRUD Tutorial</h1>
+      <h1 className="title">Movie Review Website</h1>
       <div className="form">
         <label>Movie Name</label>
         <input
